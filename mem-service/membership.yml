@@ -1,1 +1,4 @@
 
+service:
+  greeting: membership default service
+  id: 67978i8
